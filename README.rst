@@ -5,12 +5,6 @@ This is a repository of the Google Scripts used by Big Sis and Bol Behen.
 
 Files
 -----
-t6Nopb4 ????????????????
-P6jLP8 uncaught message
-2F3BA findTrigger
-CF364 primary lookup
-CRV3HI secondary lookup
-ArHXGg merged topic lookup
 uncaught_message_db.gs
 ~~~~~~~~~~~~~~~~~~~~~~
 Stores uncaught messages in this spreadsheet for review https://docs.google.com/spreadsheets/d/1w_Mw-fqZ_NI8TzDxg5-nLdT_1-xqUR79dUQFPvuWIsY. The date, time, user identifier (msisdn or FB id) and the messge received are all stored.
