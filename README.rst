@@ -43,7 +43,7 @@ Recommendation: This is being replaced by the NLP bot and can be removed once th
 
 merged_topic_lookup.gs
 ~~~~~~~~~~~~~~~~~~~~~~
-Compares a string made up of the primary and secondary topic keywords to Sheet 3 col A in this spreadsheet https://script.google.com/a/praekelt.org/d/1Lm8gkG8kpIVpMCVi4NtHxRDqdkONHv72krUa360wNAlDe84sWZJSy3kF.
+Compares a string made up of the primary and secondary topic keywords to Sheet 3 col A in this spreadsheet https://docs.google.com/spreadsheets/d/1Xc9hTm9lLfMFhLuusPiMjdYroZ5Epc3_ye_M6xxSLKs.
 Returns the uuids, titles and names of up to 5 flows that match the topic string. Note: the "title" is the name of the flow in RapidPro while the "name" is what is displayed to the user.
 
 Called in Big Sis in the Topic Lookup flow, multiple times in the SF_Lookup V2 [DRAFT] (as "Result" every time) and multiple times in the Lookup_unhandled V2 Draft flow (also as "Result" every time).
